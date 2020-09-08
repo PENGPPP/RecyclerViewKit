@@ -1,0 +1,3 @@
+include ':listviewkit'
+include ':app'
+rootProject.name = "NaNRecyclerKit"
